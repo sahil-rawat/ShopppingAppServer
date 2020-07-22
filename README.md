@@ -1,4 +1,4 @@
-# friendly-potato
+# ShoppinAppServer
 Example of a django server for a serving APIs 
 
 The APIs are for a system of customer/vendor apps, the following tasks are now possible:
